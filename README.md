@@ -1,6 +1,6 @@
 # Ribesh Maharjan
 
-**'Student'**
+**`Student`**
 
 ## Hi there 👋
 
@@ -10,7 +10,7 @@ I'm a college student that loves to code. I'm currently in the learning phase, p
     <a href="https://www.facebook.com/ribu.maharjan" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
     </a>
-    <a href="www.instagram.com/ribeshmhzan" target="_blank" style="text-decoration: none;">
+    <a href="https://www.instagram.com/ribeshmhzan" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
     <a href="https://discordapp.com/users/570292509218177034" target="_blank" style="text-decoration: none;">
