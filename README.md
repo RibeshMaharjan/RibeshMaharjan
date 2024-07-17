@@ -46,6 +46,14 @@ I'm a college student that loves to code. I'm currently in the learning phase, p
   </picture>
 </a>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-rho-six-22.vercel.app/api?username=RibeshMaharjan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats-rho-six-22.vercel.app/api?username=RibeshMaharjan&show_icons=true" />
+</picture>
+
 <!--
 **RibeshMaharjan/RibeshMaharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
