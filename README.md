@@ -37,6 +37,7 @@ I'm a college student that loves to code. I'm currently in the learning phase, p
 
 ---
 
+<!-- 
 ### 📊 Stats
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=142114953" target="_blank" style="display: block" align="center">
@@ -46,15 +47,13 @@ I'm a college student that loves to code. I'm currently in the learning phase, p
   </picture>
 </a>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-s7hi.vercel.app/api?username=RibeshMaharjan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats-rho-six-22.vercel.app/api?username=RibeshMaharjan&show_icons=true" />
-</picture
+-->
 
-[![Top Langs](https://github-readme-stats-rho-six-22.vercel.app/api/top-langs/?username=RibeshMaharjan)](https://github.com/RibeshMaharjan/github-readme-stats)
+
+|<img height=200 align="center" src="https://github-readme-stats-s7hi.vercel.app/api?username=RibeshMaharjan&show_icons=true&theme=gruvbox&card_width=320&count_private=true&include_all_commits=true" />|<img height=200 align="center" src="https://github-readme-stats-s7hi.vercel.app/api/top-langs/?username=RibeshMaharjan&theme=gruvbox&layout=donut&card_width=320" />|
+|--|--|
+
+<!-- <img height=200 align="center" src="https://github-readme-stats-s7hi.vercel.app/api/wakatime?username=RibeshMzn&theme=gruvbox" /> -->
 
 <!--
 **RibeshMaharjan/RibeshMaharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
