@@ -52,7 +52,9 @@ I'm a college student that loves to code. I'm currently in the learning phase, p
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats-rho-six-22.vercel.app/api?username=RibeshMaharjan&show_icons=true" />
-</picture>
+</picture
+
+[![Top Langs](https://github-readme-stats-rho-six-22.vercel.app/api/top-langs/?username=RibeshMaharjan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RibeshMaharjan/RibeshMaharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
